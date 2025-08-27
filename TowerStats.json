@@ -3708,12 +3708,12 @@
         ]
     },
     "Purple Guy": {
-        "Type": "Cone AOE",
+        "Type": "Splash",
         "Image": "rbxassetid://74846136473322",
         "Rarity": "Secret",
         "PlacePrice": 600,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3736,19 +3736,19 @@
                 "Price": 1000,
                 "Range": 22,
                 "Damage": 375,
-                "Cooldown": 0.8
+                "Cooldown": 0.85
             },
             {
                 "Price": 1200,
                 "Range": 23,
                 "Damage": 425,
-                "Cooldown": 0.75
+                "Cooldown": 0.8
             },
             {
                 "Price": 1400,
                 "Range": 25,
                 "Damage": 475,
-                "Cooldown": 0.7
+                "Cooldown": 0.75
             }
         ]
     },
@@ -4039,4 +4039,5 @@
     }
 
 }
+
 
