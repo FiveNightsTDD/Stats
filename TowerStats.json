@@ -845,7 +845,7 @@
             {
                 "Price": 1000,
                 "Range": 23,
-                "Damage": 35,
+                "Damage": 40,
                 "Cooldown": 0.275,
                 "Shock": 125,
                 "ShockTime": 1
@@ -853,7 +853,7 @@
             {
                 "Price": 1400,
                 "Range": 24,
-                "Damage": 40,
+                "Damage": 50,
                 "Cooldown": 0.225,
                 "Shock": 165,
                 "ShockTime": 1
@@ -861,8 +861,8 @@
             {
                 "Price": 2000,
                 "Range": 25,
-                "Damage": 40,
-                "Cooldown": 0.2,
+                "Damage": 60,
+                "Cooldown": 0.175,
                 "Shock": 200,
                 "ShockTime": 1
             }
@@ -4101,6 +4101,7 @@
     }
 
 }
+
 
 
 
