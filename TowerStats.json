@@ -814,11 +814,12 @@
         ]
     },
     "Rockin Bonnie": {
-        "Type": "AOE",
+        "Type": "Splash + Passive",
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
-        "PlacePrice": 500,
-        "Max": 5,
+        "PlacePrice": 800,
+        "Max": 2,
+        "Passive": {"Name": "Rock Shock", "Description": "When an Enemy Takes Damage from Tower, they are Shocked and the Shock Deals 50 -> 200 damage per 0.5 second to them for 1 second"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -827,27 +828,43 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 5,
-                "Cooldown": 0.75
+                "Range": 20,
+                "Damage": 25,
+                "Cooldown": 0.35,
+                "Shock": 50,
+                "ShockTime": 1
             },
             {
                 "Price": 800,
-                "Range": 18,
-                "Damage": 7,
-                "Cooldown": 0.75
+                "Range": 21,
+                "Damage": 30,
+                "Cooldown": 0.3,
+                "Shock": 85,
+                "ShockTime": 1
             },
             {
-                "Price": 1200,
-                "Range": 20,
-                "Damage": 10,
-                "Cooldown": 0.75
+                "Price": 1000,
+                "Range": 23,
+                "Damage": 35,
+                "Cooldown": 0.275,
+                "Shock": 125,
+                "ShockTime": 1
             },
             {
-                "Price": 1600,
-                "Range": 20,
-                "Damage": 14,
-                "Cooldown": 0.75
+                "Price": 1400,
+                "Range": 24,
+                "Damage": 40,
+                "Cooldown": 0.225,
+                "Shock": 165,
+                "ShockTime": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 25,
+                "Damage": 40,
+                "Cooldown": 0.2,
+                "Shock": 200,
+                "ShockTime": 1
             }
         ]
     },
@@ -4084,6 +4101,7 @@
     }
 
 }
+
 
 
 
