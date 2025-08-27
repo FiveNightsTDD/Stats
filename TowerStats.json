@@ -3708,7 +3708,7 @@
         ]
     },
     "Purple Guy": {
-        "Type": "Turret Spawner",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://74846136473322",
         "Rarity": "Secret",
         "PlacePrice": 600,
@@ -3730,29 +3730,29 @@
                 "Price": 800,
                 "Range": 21,
                 "Damage": 400,
-                "Cooldown": 1,
+                "Cooldown": 0.9,
                 "Turret1": {"Range": 30, "Damage": 5, "Cooldown": 0.1}
             },
             {
                 "Price": 1000,
                 "Range": 22,
-                "Damage": 400,
-                "Cooldown": 1,
+                "Damage": 420,
+                "Cooldown": 0.8,
                 "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
             },
             {
                 "Price": 1200,
                 "Range": 23,
-                "Damage": 400,
-                "Cooldown": 1,
+                "Damage": 450,
+                "Cooldown": 0.75,
                 "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1},
                 "Turret2": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
             },
             {
                 "Price": 1400,
                 "Range": 25,
-                "Damage": 400,
-                "Cooldown": 1,
+                "Damage": 475,
+                "Cooldown": 0.7,
                 "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
                 "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
             }
@@ -4043,4 +4043,5 @@
             }
         ]
     }
+
 }
