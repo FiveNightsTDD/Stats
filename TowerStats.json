@@ -814,7 +814,7 @@
         ]
     },
     "Rockin Bonnie": {
-        "Type": "Splash + Passive",
+        "Type": "Splash + Burn",
         "Image": "rbxassetid://17689695988",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -4101,6 +4101,7 @@
     }
 
 }
+
 
 
 
