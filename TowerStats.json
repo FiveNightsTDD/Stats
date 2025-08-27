@@ -3160,9 +3160,9 @@
         "Image": "rbxassetid://18971134114",
         "Rarity": "Secret",
         "PlacePrice": 7500,
-        "Offset": 0.5,
+        "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
+        "Passive": "Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second.",
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4040,6 +4040,7 @@
     }
 
 }
+
 
 
 
