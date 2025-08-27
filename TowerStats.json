@@ -2670,7 +2670,7 @@
         "Image": "rbxassetid://18887217738",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
-        "Offset": 0.7,
+        "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -4084,6 +4084,7 @@
     }
 
 }
+
 
 
 
