@@ -78,7 +78,7 @@
     },
     "Foxy": {
         "Type": "Melee",
-        "Image": "rbxassetid://16620218689",
+        "Image": "rbxassetid://16620218689",        
         "Rarity": "Rare",
         "PlacePrice": 600,
         "Offset": 0.65,
@@ -3160,7 +3160,7 @@
         "Image": "rbxassetid://18971134114",
         "Rarity": "Secret",
         "PlacePrice": 7500,
-        "Offset": -0.5,
+        "Offset": -0.2,
         "Max": 3,
         "Passive": {"Name": "Burn", "Description": "When Tower Attacks Enemy Receives 150 -> 300 Damage Per 0.3 Seconds For 1.5 Seconds"},
         "hitboxOffset": {
@@ -4040,6 +4040,7 @@
     }
 
 }
+
 
 
 
