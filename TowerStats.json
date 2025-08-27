@@ -3993,6 +3993,50 @@
             }
         ]
     },
+    "Music Man": {
+        "Type": "Cooldown Booster",
+        "Image": "rbxassetid://77906930997624",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+         "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.8
+            },
+            {
+                "Price": 1600,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.75
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.7
+            }
+        ]
+    },
     "Fractured Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://124956379444337",
@@ -4040,6 +4084,7 @@
     }
 
 }
+
 
 
 
