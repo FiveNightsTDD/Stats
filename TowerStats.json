@@ -2761,7 +2761,7 @@
         ]
     },
     "The Crying Child": {
-        "Type": "Cone AOE + Slow",
+        "Type": "Cone AOE Slow",
         "Image": "rbxassetid://18937271323",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -2776,14 +2776,14 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 10,
+                "Damage": 0,
                 "Cooldown": 0.1,
                 "Slow": 0.7
             },
             {
                 "Price": 1000,
                 "Range": 17,
-                "Damage": 15,
+                "Damage": 0,
                 "Cooldown": 0.1,
                 "Slow": 0.6
             },
@@ -2797,14 +2797,14 @@
             {
                 "Price": 1800,
                 "Range": 22,
-                "Damage": 25,
+                "Damage": 0,
                 "Cooldown": 0.1,
                 "Slow": 0.4
             },
             {
                 "Price": 2000,
                 "Range": 22,
-                "Damage": 35,
+                "Damage": 0,
                 "Cooldown": 0.1,
                 "Slow": 0.3
             }
@@ -4101,6 +4101,7 @@
     }
 
 }
+
 
 
 
