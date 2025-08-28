@@ -961,25 +961,25 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 15,
+                "Damage": 80,
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 15,
-                "Damage": 20,
+                "Damage": 120,
                 "Cooldown": 0.05
             },
             {
                 "Price": 40000,
                 "Range": 20,
-                "Damage": 30,
+                "Damage": 180,
                 "Cooldown": 0.05
             },
             {
                 "Price": 50000,
                 "Range": 25,
-                "Damage": 40,
+                "Damage": 240,
                 "Cooldown": 0.05
             }
         ]
@@ -1283,21 +1283,21 @@
             },
             {
                 "Price": 1200,
-                "Range": 15,
+                "Range": 17,
                 "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.1
             },
             {
                 "Price": 1400,
-                "Range": 15,
+                "Range": 18,
                 "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.15
             },
             {
                 "Price": 1800,
-                "Range": 15,
+                "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.2
@@ -1968,7 +1968,7 @@
         ]
     },
     "War Machine Foxy": {
-        "Type": "Continuous",
+        "Type": "Cone AOE + Burn + Poison",
         "Image": "rbxassetid://18363581536",
         "Rarity": "Secret",
         "PlacePrice": 3500,
@@ -1983,25 +1983,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 30,
+                "Damage": 50,
                 "Cooldown": 0.05
             },
             {
                 "Price": 5000,
                 "Range": 23,
-                "Damage": 38,
+                "Damage": 58,
                 "Cooldown": 0.05
             },
             {
                 "Price": 6000,
                 "Range": 26,
-                "Damage": 45,
+                "Damage": 65,
                 "Cooldown": 0.05
             },
             {
                 "Price": 7000,
                 "Range": 30,
-                "Damage": 55,
+                "Damage": 75,
                 "Cooldown": 0.05
             }
         ]
@@ -2761,7 +2761,7 @@
         ]
     },
     "The Crying Child": {
-        "Type": "Slow + Cone AOE",
+        "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://18937271323",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -4101,6 +4101,7 @@
     }
 
 }
+
 
 
 
