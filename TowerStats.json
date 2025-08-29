@@ -3260,7 +3260,7 @@
                 "Damage": 1200,
                 "Poison": 3600,
                 "PoisonTime": 3,
-                "Cooldown": 1.85
+                "Cooldown": 1.5
             },
             {
                 "Price": 25000,
@@ -3268,7 +3268,7 @@
                 "Damage": 1400,
                 "Poison": 4200,
                 "PoisonTime": 3,
-                "Cooldown": 1.7
+                "Cooldown": 1.25
             },
             {
                 "Price": 30000,
@@ -3276,7 +3276,7 @@
                 "Damage": 1600,
                 "Poison": 4800,
                 "PoisonTime": 3,
-                "Cooldown": 1.5
+                "Cooldown": 1
             }
         ]
     },
@@ -4059,6 +4059,45 @@
             }
         ]
     },
+    "Overclocked Puppeteer": {
+        "Type": "Nuke + Burn",
+        "Image": "rbxassetid://100495958746039",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
+        "Offset": -0.4,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 80000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 10000,
+                "Range": 38,
+                "Damage": 320000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 90000,
+                "Range": 42,
+                "Damage": 380000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 100000,
+                "Range": 45,
+                "Damage": 450000,
+                "Cooldown": 3
+            }
+        ]
+    },
     "Fractured Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://124956379444337",
@@ -4106,6 +4145,7 @@
     }
 
 }
+
 
 
 
