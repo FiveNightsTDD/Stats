@@ -4063,7 +4063,7 @@
         "Type": "Nuke + Burn",
         "Image": "rbxassetid://100495958746039",
         "Rarity": "Nightmare",
-        "PlacePrice": 20000,
+        "PlacePrice": 80000,
         "Offset": -0.4,
         "Max": 2,
         "hitboxOffset": {
@@ -4075,26 +4075,34 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 80000,
-                "Cooldown": 5
+                "Damage": 8000,
+                "Cooldown": 10,
+                "Burn": 16000,
+                "BurnTime": 5
             },
             {
                 "Price": 10000,
                 "Range": 38,
-                "Damage": 320000,
-                "Cooldown": 4
+                "Damage": 32000,
+                "Cooldown": 9,
+                "Burn": 20000,
+                "BurnTime": 5
             },
             {
                 "Price": 90000,
                 "Range": 42,
-                "Damage": 380000,
-                "Cooldown": 4
+                "Damage": 38000,
+                "Cooldown": 7,
+                "Burn": 24000,
+                "BurnTime": 5
             },
             {
                 "Price": 100000,
                 "Range": 45,
-                "Damage": 450000,
-                "Cooldown": 3
+                "Damage": 45000,
+                "Cooldown": 6,
+                "Burn": 30000,
+                "BurnTime": 5
             }
         ]
     },
@@ -4145,6 +4153,7 @@
     }
 
 }
+
 
 
 
