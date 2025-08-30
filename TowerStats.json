@@ -1968,7 +1968,7 @@
         ]
     },
     "War Machine Foxy": {
-        "Type": "Cone AOE + Burn + Poison",
+        "Type": "Splash + Burn + Poison",
         "Image": "rbxassetid://18363581536",
         "Rarity": "Secret",
         "PlacePrice": 3500,
@@ -4169,6 +4169,7 @@
     }
 
 }
+
 
 
 
