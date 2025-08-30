@@ -1982,27 +1982,43 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 30,
                 "Damage": 50,
-                "Cooldown": 0.05
+                "Cooldown": 0.05,
+                "Burn": 200,
+                "BurnTime": 3,
+                "Poison": 350,
+                "PoisonTime": 5
             },
             {
                 "Price": 5000,
-                "Range": 23,
+                "Range": 30,
                 "Damage": 58,
-                "Cooldown": 0.05
+                "Cooldown": 0.05,
+                "Burn": 200,
+                "BurnTime": 3,
+                "Poison": 350,
+                "PoisonTime": 5
             },
             {
                 "Price": 6000,
-                "Range": 26,
+                "Range": 30,
                 "Damage": 65,
-                "Cooldown": 0.05
+                "Cooldown": 0.05,
+                "Burn": 200,
+                "BurnTime": 3,
+                "Poison": 350,
+                "PoisonTime": 5
             },
             {
                 "Price": 7000,
                 "Range": 30,
                 "Damage": 75,
-                "Cooldown": 0.05
+                "Cooldown": 0.05,
+                "Burn": 200,
+                "BurnTime": 3,
+                "Poison": 350,
+                "PoisonTime": 5
             }
         ]
     },
@@ -4153,6 +4169,7 @@
     }
 
 }
+
 
 
 
