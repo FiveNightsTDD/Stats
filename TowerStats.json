@@ -1985,40 +1985,40 @@
                 "Range": 30,
                 "Damage": 50,
                 "Cooldown": 0.05,
-                "Burn": 200,
-                "BurnTime": 3,
-                "Poison": 350,
-                "PoisonTime": 5
+                "Burn": 45,
+                "BurnTime": 1,
+                "Poison": 75,
+                "PoisonTime": 1
             },
             {
                 "Price": 5000,
                 "Range": 30,
                 "Damage": 58,
                 "Cooldown": 0.05,
-                "Burn": 200,
-                "BurnTime": 3,
-                "Poison": 350,
-                "PoisonTime": 5
+                "Burn": 50,
+                "BurnTime": 1,
+                "Poison": 85,
+                "PoisonTime": 1
             },
             {
                 "Price": 6000,
                 "Range": 30,
                 "Damage": 65,
                 "Cooldown": 0.05,
-                "Burn": 200,
-                "BurnTime": 3,
-                "Poison": 350,
-                "PoisonTime": 5
+                "Burn": 55,
+                "BurnTime": 1,
+                "Poison": 90,
+                "PoisonTime": 1
             },
             {
                 "Price": 7000,
                 "Range": 30,
                 "Damage": 75,
                 "Cooldown": 0.05,
-                "Burn": 200,
-                "BurnTime": 3,
-                "Poison": 350,
-                "PoisonTime": 5
+                "Burn": 70,
+                "BurnTime": 1,
+                "Poison": 100,
+                "PoisonTime": 1
             }
         ]
     },
@@ -4169,6 +4169,7 @@
     }
 
 }
+
 
 
 
