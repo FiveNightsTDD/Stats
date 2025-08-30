@@ -1987,7 +1987,7 @@
                 "Cooldown": 0.05,
                 "Burn": 450,
                 "BurnTime": 0.2,
-                "Poison": 700,
+                "Poison": 450,
                 "PoisonTime": 0.18
             },
             {
@@ -2007,7 +2007,7 @@
                 "Cooldown": 0.05,
                 "Burn": 550,
                 "BurnTime": 0.4,
-                "Poison": 800,
+                "Poison": 700,
                 "PoisonTime": 0.35
             },
             {
@@ -2016,9 +2016,9 @@
                 "Damage": 75,
                 "Cooldown": 0.05,
                 "Burn": 600,
-                "BurnTime": 0.5,
+                "BurnTime": 0.4,
                 "Poison": 850,
-                "PoisonTime": 0.5
+                "PoisonTime": 0.4
             }
         ]
     },
@@ -4232,6 +4232,7 @@
     }
 
 }
+
 
 
 
