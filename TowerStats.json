@@ -4185,51 +4185,6 @@
             }
         ]
     },
-    "Old Ice": {
-        "Type": "AOE",
-        "Image": "rbxassetid://110161260769260",
-        "Rarity": "Apex",
-        "PlacePrice": 11340,
-        "Offset": 0,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 35,
-                "Damage": 875,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 15000,
-                "Range": 38,
-                "Damage": 1000,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 17500,
-                "Range": 42,
-                "Damage": 1175,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 30000,
-                "Range": 45,
-                "Damage": 1300,
-                "Cooldown": 0.25
-            },
-            {
-                "Price": 35000,
-                "Range": 47,
-                "Damage": 1550,
-                "Cooldown": 0.25
-            }
-        ]
-    },
     "Fractured Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://124956379444337",
@@ -4277,6 +4232,7 @@
     }
 
 }
+
 
 
 
