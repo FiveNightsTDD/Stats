@@ -4187,7 +4187,7 @@
     },
     "Old Ice": {
         "Type": "AOE",
-        "Image": "rbxassetid://110161260769260"
+        "Image": "rbxassetid://110161260769260",
         "Rarity": "Apex",
         "PlacePrice": 11340,
         "Offset": 0,
@@ -4277,6 +4277,7 @@
     }
 
 }
+
 
 
 
