@@ -4229,6 +4229,51 @@
             }
         ]
     },
+    "Rave Demon Bonnie": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://100372638867635",
+        "Rarity": "Secret",
+        "PlacePrice": 7500,
+        "Offset": 0.7,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 125,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 8000,
+                "Range": 20,
+                "Damage": 175,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 10000,
+                "Range": 22,
+                "Damage": 225,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 12500,
+                "Range": 24,
+                "Damage": 275,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 300,
+                "Cooldown": 0.35
+            }
+        ]
+    },
     "Fractured Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://124956379444337",
@@ -4276,5 +4321,6 @@
     }
 
 }
+
 
 
