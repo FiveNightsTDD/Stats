@@ -4123,9 +4123,9 @@
         ]
     },
     "Dedley Scott": {
-        "Type": "Nuke + Burn",
+        "Type": "Nuke",
         "Image": "rbxassetid://120138673136877",
-        "Rarity": "Apex",
+        "Rarity": "Nightmare",
         "PlacePrice": 11340,
         "Offset": -0.4,
         "Max": 1,
@@ -4138,50 +4138,38 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 1750,
-                "Cooldown": 0.5,
-                "Burn": 1000,
-                "BurnTime": 0.5
+                "Damage": 450,
+                "Cooldown": 0.5
             },
             {
                 "Price": 15000,
                 "Range": 38,
-                "Damage": 2000,
-                "Cooldown": 0.35,
-                "Burn": 1200,
-                "BurnTime": 0.35
+                "Damage": 600,
+                "Cooldown": 0.45
             },
             {
                 "Price": 20000,
                 "Range": 42,
-                "Damage": 2250,
-                "Cooldown": 0.3,
-                "Burn": 1400,
-                "BurnTime": 0.3
+                "Damage": 750,
+                "Cooldown": 0.4
             },
             {
                 "Price": 30000,
                 "Range": 45,
-                "Damage": 2500,
-                "Cooldown": 0.25,
-                "Burn": 1600,
-                "BurnTime": 0.3
+                "Damage": 800,
+                "Cooldown": 0.35
             },
             {
                 "Price": 35000,
                 "Range": 47,
-                "Damage": 2600,
-                "Cooldown": 0.15,
-                "Burn": 1800,
-                "BurnTime": 0.3
+                "Damage": 900,
+                "Cooldown": 0.3
             },
             {
                 "Price": 40000,
                 "Range": 50,
-                "Damage": 2750,
-                "Cooldown": 0.15,
-                "Burn": 2000,
-                "BurnTime": 0.3
+                "Damage": 1000,
+                "Cooldown": 0.25
             }
         ]
     },
@@ -4368,6 +4356,7 @@
     }
 
 }
+
 
 
 
