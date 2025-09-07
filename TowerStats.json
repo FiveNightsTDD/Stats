@@ -2563,7 +2563,7 @@
         ]
     },
     "Tarnished Spring Bonnie": {
-        "Type": "Melee",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://18777411515",
         "Rarity": "Secret",
         "PlacePrice": 600,
@@ -2578,32 +2578,32 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
-                "Cooldown": 0.8
+                "Damage": 150,
+                "Cooldown": 0.6
             },
             {
                 "Price": 800,
                 "Range": 16,
-                "Damage": 120,
-                "Cooldown": 0.7
+                "Damage": 175,
+                "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 17,
-                "Damage": 140,
-                "Cooldown": 0.6
+                "Damage": 200,
+                "Cooldown": 0.4
             },
             {
                 "Price": 1600,
                 "Range": 18,
-                "Damage": 160,
-                "Cooldown": 0.5
+                "Damage": 225,
+                "Cooldown": 0.3
             },
             {
                 "Price": 2000,
                 "Range": 20,
-                "Damage": 200,
-                "Cooldown": 0.3
+                "Damage": 250,
+                "Cooldown": 0.2
             }
         ]
     },
@@ -4360,6 +4360,7 @@
     }
 
 }
+
 
 
 
