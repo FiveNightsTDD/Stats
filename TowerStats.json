@@ -4504,6 +4504,69 @@
             }
         ]
     },
+    "Animdude": {
+        "Type": "Nuke + Second Nuke",
+        "Image": "rbxassetid://77112261441145",
+        "Rarity": "Secret",
+        "PlacePrice": 4000,
+        "Offset": 1.25,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 2.5,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 5000,
+                "Cooldown": 2.4,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 30,
+                "Damage": 6500,
+                "Cooldown": 2.3,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 30000,
+                "Range": 34,
+                "Damage": 8000,
+                "Cooldown": 2.2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 40000,
+                "Range": 37,
+                "Damage": 12000,
+                "Cooldown": 2.1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 80000,
+                "Range": 40,
+                "Damage": 15000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
     "Fractured Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://124956379444337",
@@ -4551,6 +4614,7 @@
     }
 
 }
+
 
 
 
