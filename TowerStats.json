@@ -4505,11 +4505,11 @@
         ]
     },
     "Animdude": {
-        "Type": "Nuke + Second Nuke",
+        "Type": "Splash + Second Splash",
         "Image": "rbxassetid://77112261441145",
         "Rarity": "Secret",
         "PlacePrice": 4000,
-        "Offset": 1.25,
+        "Offset": 0,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -4520,7 +4520,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 4000,
+                "Damage": 2000,
                 "Cooldown": 2.5,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -4528,7 +4528,7 @@
             {
                 "Price": 10000,
                 "Range": 27,
-                "Damage": 5000,
+                "Damage": 2400,
                 "Cooldown": 2.4,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -4536,7 +4536,7 @@
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 6500,
+                "Damage": 2800,
                 "Cooldown": 2.3,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -4544,7 +4544,7 @@
             {
                 "Price": 30000,
                 "Range": 34,
-                "Damage": 8000,
+                "Damage": 3200,
                 "Cooldown": 2.2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -4552,7 +4552,7 @@
             {
                 "Price": 40000,
                 "Range": 37,
-                "Damage": 12000,
+                "Damage": 3600,
                 "Cooldown": 2.1,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -4560,7 +4560,7 @@
             {
                 "Price": 80000,
                 "Range": 40,
-                "Damage": 15000,
+                "Damage": 4000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -4614,6 +4614,7 @@
     }
 
 }
+
 
 
 
