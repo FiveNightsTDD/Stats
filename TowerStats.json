@@ -4508,7 +4508,7 @@
         "Type": "Splash + Second Splash",
         "Image": "rbxassetid://77112261441145",
         "Rarity": "Secret",
-        "PlacePrice": 4000,
+        "PlacePrice": 5000,
         "Offset": 0,
         "Max": 1,
         "hitboxOffset": {
@@ -4614,6 +4614,7 @@
     }
 
 }
+
 
 
 
