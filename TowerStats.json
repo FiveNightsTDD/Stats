@@ -4505,7 +4505,7 @@
         ]
     },
     "Animdude": {
-        "Type": "Splash + Second Splash",
+        "Type": "Splash + Second Splash + Stun",
         "Image": "rbxassetid://77112261441145",
         "Rarity": "Secret",
         "PlacePrice": 5000,
@@ -4523,7 +4523,7 @@
                 "Damage": 2000,
                 "Cooldown": 2.5,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.25
             },
             {
                 "Price": 10000,
@@ -4534,7 +4534,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 20000,
+                "Price": 12000,
                 "Range": 30,
                 "Damage": 2800,
                 "Cooldown": 2.3,
@@ -4542,7 +4542,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 30000,
+                "Price": 14000,
                 "Range": 34,
                 "Damage": 3200,
                 "Cooldown": 2.2,
@@ -4550,7 +4550,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 40000,
+                "Price": 18000,
                 "Range": 37,
                 "Damage": 3600,
                 "Cooldown": 2.1,
@@ -4558,10 +4558,57 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 80000,
+                "Price": 20000,
                 "Range": 40,
                 "Damage": 4000,
                 "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Ennard": {
+        "Type": "Chain Shock",
+        "Image": "rbxassetid://82456156246566",
+        "Rarity": "Nightmare",
+        "PlacePrice": 18000,
+        "Offset": 0.75,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3600,
+                "Cooldown": 2.75,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 22000,
+                "Range": 22,
+                "Damage": 4000,
+                "Cooldown": 2.75,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 24000,
+                "Range": 24,
+                "Damage": 4500,
+                "Cooldown": 2.75,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 26000,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 2.75,
                 "Slow": 0,
                 "SlowTime": 0.5
             }
@@ -4614,6 +4661,7 @@
     }
 
 }
+
 
 
 
