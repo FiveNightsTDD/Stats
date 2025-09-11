@@ -4653,6 +4653,53 @@
             }
         ]
     },
+    "ITS ME": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://120282726125561",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7500,
+        "Offset": -1.4,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 0.25,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.25,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 250,
+                "Cooldown": 0.25,
+                "Slow": 0.6,
+                "SlowTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 325,
+                "Cooldown": 0.25,
+                "Slow": 0.6,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Old Man Consequences": {
         "Type": "AOE",
         "Image": "rbxassetid://95479691284429",
@@ -4739,6 +4786,7 @@
     }
 
 }
+
 
 
 
