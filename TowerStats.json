@@ -1359,25 +1359,64 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 200,
                 "Cooldown": 4
             },
             {
                 "Price": 500,
                 "Range": 18,
-                "Damage": 150,
-                "Cooldown": 3.8
+                "Damage": 250,
+                "Cooldown": 3.7
             },
             {
                 "Price": 800,
                 "Range": 20,
-                "Damage": 200,
-                "Cooldown": 3.7
+                "Damage": 300,
+                "Cooldown": 3.3
             },
             {
                 "Price": 1200,
                 "Range": 22,
-                "Damage": 250,
+                "Damage": 350,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "President Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://133399431749556",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Offset": 0,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 750,
+                "Cooldown": 4
+            },
+            {
+                "Price": 500,
+                "Range": 22,
+                "Damage": 900,
+                "Cooldown": 3.8
+            },
+            {
+                "Price": 800,
+                "Range": 23,
+                "Damage": 1050,
+                "Cooldown": 3.7
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 1200,
                 "Cooldown": 3.5
             }
         ]
@@ -4661,6 +4700,7 @@
     }
 
 }
+
 
 
 
