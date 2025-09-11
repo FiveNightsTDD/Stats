@@ -4653,6 +4653,45 @@
             }
         ]
     },
+    "Old Man Consequences": {
+        "Type": "AOE",
+        "Image": "rbxassetid://95479691284429",
+        "Rarity": "Apex",
+        "PlacePrice": 11340,
+        "Offset": 0.5,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 22222,
+                "Range": 28,
+                "Damage": 900,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 33333,
+                "Range": 32,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 44444,
+                "Range": 35,
+                "Damage": 1200,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Fractured Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://124956379444337",
@@ -4700,6 +4739,7 @@
     }
 
 }
+
 
 
 
