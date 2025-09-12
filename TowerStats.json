@@ -2822,6 +2822,7 @@
         "PlacePrice": 800,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "Cone AoE Slow", "Description": "Enemies In Cone 30 Degress Is Being Slowed By 60% For 0.5 Seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4551,7 +4552,7 @@
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Recursive Volley", "Description": "Attacks strike twice and stun enemies for 0.5 seconds"},
+        "Passive": {"Name": "Recursive Volley", "Description": "Attacks strike twice and stun enemies for 0.25 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4572,7 +4573,7 @@
                 "Damage": 2400,
                 "Cooldown": 2.4,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.25
             },
             {
                 "Price": 12000,
@@ -4580,7 +4581,7 @@
                 "Damage": 2800,
                 "Cooldown": 2.3,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.25
             },
             {
                 "Price": 14000,
@@ -4588,7 +4589,7 @@
                 "Damage": 3200,
                 "Cooldown": 2.2,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.25
             },
             {
                 "Price": 18000,
@@ -4596,7 +4597,7 @@
                 "Damage": 3600,
                 "Cooldown": 2.1,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.25
             },
             {
                 "Price": 20000,
@@ -4789,6 +4790,7 @@
     }
 
 }
+
 
 
 
