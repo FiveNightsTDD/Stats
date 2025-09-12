@@ -4308,6 +4308,7 @@
         "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Slow", "Description": "Slow Enemies by 30%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4544,12 +4545,13 @@
         ]
     },
     "Animdude": {
-        "Type": "Splash + Second Splash + Stun",
+        "Type": "Nuke + Passive",
         "Image": "rbxassetid://77112261441145",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 1,
+        "Passive": {"Name": "Recursive Volley", "Description": "Attacks strike twice and stun enemies for 0.5 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4607,12 +4609,13 @@
         ]
     },
     "Ennard": {
-        "Type": "AOE + Stun",
+        "Type": "Chain Shock",
         "Image": "rbxassetid://82456156246566",
         "Rarity": "Nightmare",
         "PlacePrice": 18000,
         "Offset": 0.75,
         "Max": 3,
+        "Passive": {"Name": "Controlled Shock", "Description": "Enemies Receives Stun For 0.5 Seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4786,6 +4789,7 @@
     }
 
 }
+
 
 
 
