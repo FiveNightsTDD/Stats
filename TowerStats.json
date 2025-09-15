@@ -2166,7 +2166,7 @@
                 "Damage": 40,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
-                "RechargeLength": 5,
+                "RechargeLength": 2,
                 "Slow": 0.9,
                 "SlowTime": 1
             },
@@ -2176,7 +2176,7 @@
                 "Damage": 45,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
-                "RechargeLength": 5,
+                "RechargeLength": 2,
                 "Slow": 0.7,
                 "SlowTime": 1
             },
@@ -2186,7 +2186,7 @@
                 "Damage": 50,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
-                "RechargeLength": 5,
+                "RechargeLength": 2,
                 "Slow": 0.7,
                 "SlowTime": 1
             },
@@ -2196,7 +2196,7 @@
                 "Damage": 55,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
-                "RechargeLength": 5,
+                "RechargeLength": 2,
                 "Slow": 0.7,
                 "SlowTime": 1
             },
@@ -2206,7 +2206,7 @@
                 "Damage": 60,
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
-                "RechargeLength": 5,
+                "RechargeLength": 1,
                 "Slow": 0.7,
                 "SlowTime": 1
             }
@@ -4790,6 +4790,7 @@
     }
 
 }
+
 
 
 
