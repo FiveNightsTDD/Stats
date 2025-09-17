@@ -1731,7 +1731,7 @@
         ]
     },
     "Phantom Mangle": {
-        "Type": "Continuous",
+        "Type": "Continuous + Slow",
         "Image": "rbxassetid://18363533024",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
@@ -1745,26 +1745,34 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 30,
-                "Cooldown": 0.05
+                "Damage": 120,
+                "Cooldown": 0.05,
+                "Slow": 0.6,
+                "SlowTime": 1
             },
             {
                 "Price": 30000,
                 "Range": 28,
-                "Damage": 40,
-                "Cooldown": 0.05
+                "Damage": 180,
+                "Cooldown": 0.05,
+                "Slow": 0.6,
+                "SlowTime": 1
             },
             {
                 "Price": 45000,
                 "Range": 32,
-                "Damage": 50,
-                "Cooldown": 0.05
+                "Damage": 250,
+                "Cooldown": 0.05,
+                "Slow": 0.6,
+                "SlowTime": 1
             },
             {
                 "Price": 60000,
                 "Range": 35,
-                "Damage": 60,
-                "Cooldown": 0.05
+                "Damage": 300,
+                "Cooldown": 0.05,
+                "Slow": 0.6,
+                "SlowTime": 1
             }
         ]
     },
@@ -4790,6 +4798,7 @@
     }
 
 }
+
 
 
 
